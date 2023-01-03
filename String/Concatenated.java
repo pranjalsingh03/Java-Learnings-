@@ -2,6 +2,9 @@ package String;
 
 public class Concatenated {
     public static void main(String[] args) {
+
+        // Concatenated string
+
         String name = "Pranjal";
         String name2 = "Magan";
         String name3 = name + name2;
