@@ -5,7 +5,7 @@ public class switchs {
     // Insted of writing if else several times we uses switches
     public static void main(String[] args) {
 
-        int day = 4;
+        int day = 2;
 
         switch (day) {
             case 1:
