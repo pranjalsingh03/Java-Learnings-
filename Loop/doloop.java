@@ -1,7 +1,5 @@
 package Loop;
 
-import Variables.string;
-
 public class doloop {
     public static void main(String[] args) {
         int x = 1;
