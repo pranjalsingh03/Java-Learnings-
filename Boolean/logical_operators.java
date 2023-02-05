@@ -1,7 +1,7 @@
 package Boolean;
 
 public class logical_operators {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         boolean a = true;
         boolean b = false;
         boolean b1 = a & b; // Logical AND
