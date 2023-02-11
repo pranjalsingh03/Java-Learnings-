@@ -4,8 +4,8 @@ import javax.swing.*;
 import java.awt.*;
 
 public class practice1 {
-    public static void main(String args[]){
-        JFrame frame = new JFrame();
+    public static void main(String[] args){
+        JFrame frame = new JFrame("JFrame Practice");
         frame.setSize(500, 500);
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -19,7 +19,7 @@ public class practice1 {
         frame.add(panel);  
         frame.setLocationRelativeTo(null);  
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  
-        frame.setVisible(true); 
-
+        frame.setVisible(true);
+        button.setBounds(200,100,100,50);
     }
 }
