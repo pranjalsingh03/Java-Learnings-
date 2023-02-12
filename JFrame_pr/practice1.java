@@ -11,7 +11,7 @@ public class practice1 {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JPanel panel = new JPanel();  
         panel.setLayout(new FlowLayout());  
-        JLabel label = new JLabel("JFrame By Example");  
+        JLabel label = new JLabel("JFrame Example");  
         JButton button = new JButton();  
         button.setText("Button");  
         panel.add(label);  
