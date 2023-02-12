@@ -8,4 +8,3 @@ public class day2 {
         System.out.println("Sum of array is: " + sum);
     }
 }
-    
