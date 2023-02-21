@@ -39,21 +39,21 @@ public class practice4 {
             }
         }
 
-        private static void createAndShowGUI() {
+        // private static void createAndShowGUI() {
 
-            // Create and set up the window.
+        //     // Create and set up the window.
 
-            JFrame frame = new SetActionCommandForJButton();
+        //     JFrame frame = new SetActionCommandForJButton();
 
-            // Display the window.
+        //     // Display the window.
 
-            frame.pack();
+        //     frame.pack();
 
-            frame.setVisible(true);
+        //     frame.setVisible(true);
 
-            frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        //     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        }
+        // }
 
         public static void main(String[] args) {
 
