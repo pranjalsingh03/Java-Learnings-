@@ -65,7 +65,7 @@ public class practice4 {
 
                 public void run() {
 
-                    createAndShowGUI();
+                    // createAndShowGUI();
 
                 }
 
